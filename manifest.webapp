@@ -8,7 +8,7 @@
   },
   "appType": "APP",
   "name": "DHIS2 Data Quality App",
-  "version": "1.0.0",
+  "version": "31.0.0",
   "description": "DHIS2 Data Quality App",
   "icons": {
     "48": "icon.png"
@@ -20,5 +20,5 @@
   "dhis2": {
     "apiVersion": "29"
   },
-  "manifest_generated_at": "Fri Sep 28 2018 12:43:47 GMT+0000 (UTC)"
+  "manifest_generated_at": "Fri Sep 28 2018 16:37:57 GMT+0000 (UTC)"
 }
