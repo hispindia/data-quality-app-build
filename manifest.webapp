@@ -1,0 +1,24 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": ".."
+    }
+  },
+  "appType": "APP",
+  "name": "DHIS2 Data Quality App",
+  "version": "31.0.0",
+  "description": "DHIS2 Data Quality App",
+  "icons": {
+    "48": "icon.png"
+  },
+  "developer": {
+    "url": "https://dhis2.github.io",
+    "name": "DHIS2"
+  },
+  "dhis2": {
+    "apiVersion": "29"
+  },
+  "manifest_generated_at": "Mon Mar 18 2019 06:49:10 GMT+0000 (UTC)"
+}
